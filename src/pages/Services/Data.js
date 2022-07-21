@@ -31,12 +31,11 @@ export const homeObjTwo = {
     start: ""
 }
 export const homeObjThree = {
-    lightBg: true,
-    primary: true,
+    mary: true,
     imgStart: "", 
     lightTopLine: false, 
     lightText: false, 
-    lightTextDesc: false, 
+    lightTextDesc: false,  
     buttonLabel: "Get Started", 
     description: 
     "We help owners increase their revenue. Our team of unique specialist can help you acheive your business goals. ",

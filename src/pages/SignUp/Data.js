@@ -34,9 +34,9 @@ export const homeObjThree = {
     lightBg: true,
     primary: true,
     imgStart: "", 
-    lightTopLine: false, 
-    lightText: false, 
-    lightTextDesc: false, 
+    lightTopLine: true, 
+    lightText: true, 
+    lightTextDesc: true, 
     buttonLabel: "Get Started", 
     description: 
     "We help owners increase their revenue. Our team of unique specialist can help you acheive your business goals. ",
